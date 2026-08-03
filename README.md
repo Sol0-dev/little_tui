@@ -1,6 +1,6 @@
 # little-tui
 
-![Uploading c8fecda6-e344-4658-83af-fea255f03f97.png…]()
+![image](https://github.com/Sol0-dev/little_tui/blob/main/image.png)
 
 A self-hosted, terminal-based coding agent built on [OpenRouter](https://openrouter.ai),
 with an automated tool loop modeled after the OpenRouter Agent SDK's `callModel` pattern.
