@@ -1,5 +1,7 @@
 # little-tui
 
+![Uploading image.png…]()
+
 A self-hosted, terminal-based coding agent built on [OpenRouter](https://openrouter.ai),
 with an automated tool loop modeled after the OpenRouter Agent SDK's `callModel` pattern.
 Written in pure Python (stdlib + `requests`).
